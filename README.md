@@ -23,9 +23,7 @@ Aqui estão as tecnologias que venho estudando e utilizando em meus projetos:
 
 ### 📂 Meus Principais Projetos
 | Projeto | Descrição | Tecnologias |
-| :--- | :--- | :--- |
-| [Nome do Projeto 1](link-para-o-repositorio) | Breve descrição do que o sistema faz. | HTML, CSS, JS |
-| [Nome do Projeto 2](link-para-o-repositorio) | Sistema de cadastro feito em aula. | PHP, MySQL |
+
 
 ---
 
